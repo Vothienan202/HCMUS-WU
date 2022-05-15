@@ -7,7 +7,7 @@ HO IFSBZXUFABDS, A QCVQZHZCZHXO IHBDKF HQ A GKZDXW XR KOIFSBZHOU HO JDHID COHZQ 
 
 ![image](https://user-images.githubusercontent.com/90508803/168490404-96e3493a-cb1e-46b6-90ac-3ddd2b2bcfdb.png)
 
-Dựa vào đoạn source code và tên challenge thì đây là 1 bài monoalphabetic substution. Ta có thể dùng tool https://www.dcode.fr/monoalphabetic-substitution để giải.
+Dựa vào đoạn source code và tên challenge thì đây là 1 bài mono-alphabetic substution. Ta có thể dùng tool https://www.dcode.fr/monoalphabetic-substitution để giải.
 
 ![image](https://user-images.githubusercontent.com/90508803/168490697-01cd7964-7b62-4af0-b1ac-707269bbd8e9.png)
 
