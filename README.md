@@ -1,4 +1,4 @@
-# HCMUS-WU
+# HCMUS-WRITEUPS
 
 **Substitution 1**
 
